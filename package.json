@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@babel/code-frame": "^7.16.7",
-    "webpack": "^5.51.2"
+    "webpack": "^5.76.0"
   }
 }
