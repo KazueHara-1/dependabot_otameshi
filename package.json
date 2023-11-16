@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/code-frame": "^7.22.13",
-    "webpack": "^5.89.0"
+    "@babel/code-frame": "^7.16.7",
+    "webpack": "^5.51.2"
   }
 }
