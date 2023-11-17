@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@actions/core": "^1.9.0",
-    "@babel/code-frame": "^7.16.7",
+    "@babel/code-frame": "^7.22.13",
     "webpack": "^5.51.2",
     "zod": "^3.20.2"
   }
