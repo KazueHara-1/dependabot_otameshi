@@ -12,6 +12,6 @@
     "@actions/core": "^1.10.1",
     "@babel/code-frame": "^7.22.13",
     "webpack": "^5.89.0",
-    "zod": "^3.20.2"
+    "zod": "^3.22.4"
   }
 }
