@@ -7,7 +7,7 @@ on:
 jobs:
   assign:
     runs-on: ubuntu-latest
-    if: contains(github.event.issue.labels.*.name, 'type: KPT')
+    if: "contains(github.event.issue.labels.*.name, 'type: KPT')"
     permissions:
       issues: write
     steps:
